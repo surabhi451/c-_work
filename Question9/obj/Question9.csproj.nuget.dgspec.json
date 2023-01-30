@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\surabhi.sm\\Desktop\\.NET\\QuestionAnswers\\Question9\\Question9.csproj": {}
+    "C:\\Users\\surabhi.sm\\Desktop\\Logical Questions\\QuestionAnswers\\Question9\\Question9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\surabhi.sm\\Desktop\\.NET\\QuestionAnswers\\Question9\\Question9.csproj": {
+    "C:\\Users\\surabhi.sm\\Desktop\\Logical Questions\\QuestionAnswers\\Question9\\Question9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\surabhi.sm\\Desktop\\.NET\\QuestionAnswers\\Question9\\Question9.csproj",
+        "projectUniqueName": "C:\\Users\\surabhi.sm\\Desktop\\Logical Questions\\QuestionAnswers\\Question9\\Question9.csproj",
         "projectName": "Question9",
-        "projectPath": "C:\\Users\\surabhi.sm\\Desktop\\.NET\\QuestionAnswers\\Question9\\Question9.csproj",
+        "projectPath": "C:\\Users\\surabhi.sm\\Desktop\\Logical Questions\\QuestionAnswers\\Question9\\Question9.csproj",
         "packagesPath": "C:\\Users\\surabhi.sm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\surabhi.sm\\Desktop\\.NET\\QuestionAnswers\\Question9\\obj\\",
+        "outputPath": "C:\\Users\\surabhi.sm\\Desktop\\Logical Questions\\QuestionAnswers\\Question9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\surabhi.sm\\AppData\\Roaming\\NuGet\\NuGet.Config",

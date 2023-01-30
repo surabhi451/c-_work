@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\surabhi.sm\\Desktop\\.NET\\QuestionAnswers\\Question2\\Question2.csproj",
+      "projectUniqueName": "C:\\Users\\surabhi.sm\\Desktop\\Logical Questions\\QuestionAnswers\\Question2\\Question2.csproj",
       "projectName": "Question2",
-      "projectPath": "C:\\Users\\surabhi.sm\\Desktop\\.NET\\QuestionAnswers\\Question2\\Question2.csproj",
+      "projectPath": "C:\\Users\\surabhi.sm\\Desktop\\Logical Questions\\QuestionAnswers\\Question2\\Question2.csproj",
       "packagesPath": "C:\\Users\\surabhi.sm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\surabhi.sm\\Desktop\\.NET\\QuestionAnswers\\Question2\\obj\\",
+      "outputPath": "C:\\Users\\surabhi.sm\\Desktop\\Logical Questions\\QuestionAnswers\\Question2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\surabhi.sm\\AppData\\Roaming\\NuGet\\NuGet.Config",

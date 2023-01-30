@@ -1,6 +1,4 @@
 ﻿
-
-
 Console.WriteLine("ENTER THE NAME OF PASSENGERS");
 string[] Name = new string[10];
 for (int i = 0; i < Name.Length; i++)

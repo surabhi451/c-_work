@@ -1,29 +1,35 @@
-﻿Console.Write("Enter a month: ");
-int month = int.Parse(Console.ReadLine());
-Console.Write("Enter a day: ");
+﻿Console.WriteLine("Enter the birth day:");
 int day = int.Parse(Console.ReadLine());
-Console.Write("Enter a year: ");
+Console.WriteLine("Enter the birth month:");
+int month = int.Parse(Console.ReadLine());
+Console.WriteLine("Enter the birth year:");
 int year = int.Parse(Console.ReadLine());
-//DateTime inputtedDate = new DateTime(year, month, day);
-Console.WriteLine(); string CurrentYear = DateTime.Now.Year.ToString();
-Console.WriteLine(CurrentYear); int diff = Convert.ToInt32(CurrentYear) - year;
-Console.WriteLine(diff); int tot_month = diff * 12;
-Console.WriteLine(tot_month); int week = tot_month * 5;
-Console.WriteLine(week); int tot_day = week * 7;
-Console.WriteLine(tot_day); int hours = tot_day * 24;
-Console.WriteLine(hours); if ((0 == year % 4) && (0 != year % 100) || (0 == year % 400))
+
+Console.WriteLine("The date of birth is :" + day + " / " + month + " / " + year);
+
+int CurrentYear = DateTime.Now.Year;
+Console.WriteLine("Current year :" + CurrentYear);
+int diffyear = (CurrentYear) - year;
+Console.WriteLine("date of birth in years: " + diffyear);
+
+int diffmonth = diffyear * 12;
+Console.WriteLine("date of birth in month: " + diffmonth);
+
+int diffweek = diffmonth * 4;
+Console.WriteLine("date of birth in week: " + diffweek);
+
+int diffday = diffweek * 7;
+Console.WriteLine("date of birth in day: " + diffday);
+
+int diffhours = diffday * 24;
+Console.WriteLine("date of birth in hours: " + diffhours);
+
+if ((0 == year % 4) && (0 != year % 100) || (0 == year % 400))
 {
-    Console.WriteLine("leap year");
+    Console.WriteLine("Year of birth is a leap year");
 }
 else
 {
-    Console.WriteLine("not a leap year");
+    Console.WriteLine("Year of birth is not a leap year");
 }
-
-//Console.WriteLine("Enter the DOB month:");
-//int month = int.Parse(Console.ReadLine());
-//Console.WriteLine("Enter the DOB day:");
-//int day = int.Parse(Console.ReadLine());
-//Console.WriteLine("Enter the DOB year:");
-//int year = int.Parse(Console.ReadLine());
 

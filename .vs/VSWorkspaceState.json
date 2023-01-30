@@ -1,8 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\bin",
+    "\\obj",
     "\\Ques3",
-    "\\Question4"
+    "\\Question1",
+    "\\Question13",
+    "\\Question15",
+    "\\Question16",
+    "\\Question4",
+    "\\Question6"
   ],
+  "SelectedNode": "\\Question11\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

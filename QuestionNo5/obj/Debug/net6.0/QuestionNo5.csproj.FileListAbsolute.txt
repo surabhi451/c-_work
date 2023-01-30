@@ -3,3 +3,13 @@ C:\Users\surabhi.sm\Desktop\.NET\QuestionAnswers\QuestionNo5\obj\Debug\net6.0\Qu
 C:\Users\surabhi.sm\Desktop\.NET\QuestionAnswers\QuestionNo5\obj\Debug\net6.0\QuestionNo5.AssemblyInfoInputs.cache
 C:\Users\surabhi.sm\Desktop\.NET\QuestionAnswers\QuestionNo5\obj\Debug\net6.0\QuestionNo5.AssemblyInfo.cs
 C:\Users\surabhi.sm\Desktop\.NET\QuestionAnswers\QuestionNo5\obj\Debug\net6.0\QuestionNo5.csproj.CoreCompileInputs.cache
+C:\Users\surabhi.sm\Desktop\.NET\QuestionAnswers\QuestionNo5\bin\Debug\net6.0\QuestionNo5.exe
+C:\Users\surabhi.sm\Desktop\.NET\QuestionAnswers\QuestionNo5\bin\Debug\net6.0\QuestionNo5.deps.json
+C:\Users\surabhi.sm\Desktop\.NET\QuestionAnswers\QuestionNo5\bin\Debug\net6.0\QuestionNo5.runtimeconfig.json
+C:\Users\surabhi.sm\Desktop\.NET\QuestionAnswers\QuestionNo5\bin\Debug\net6.0\QuestionNo5.dll
+C:\Users\surabhi.sm\Desktop\.NET\QuestionAnswers\QuestionNo5\bin\Debug\net6.0\QuestionNo5.pdb
+C:\Users\surabhi.sm\Desktop\.NET\QuestionAnswers\QuestionNo5\obj\Debug\net6.0\QuestionNo5.dll
+C:\Users\surabhi.sm\Desktop\.NET\QuestionAnswers\QuestionNo5\obj\Debug\net6.0\refint\QuestionNo5.dll
+C:\Users\surabhi.sm\Desktop\.NET\QuestionAnswers\QuestionNo5\obj\Debug\net6.0\QuestionNo5.pdb
+C:\Users\surabhi.sm\Desktop\.NET\QuestionAnswers\QuestionNo5\obj\Debug\net6.0\QuestionNo5.genruntimeconfig.cache
+C:\Users\surabhi.sm\Desktop\.NET\QuestionAnswers\QuestionNo5\obj\Debug\net6.0\ref\QuestionNo5.dll
